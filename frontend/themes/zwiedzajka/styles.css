@@ -1,0 +1,21 @@
+@import url('./main-layout.css');
+@import url('./views/stronagłówna-view.css');
+@import url('./views/atrakcjeturystyczne-view.css');
+@import url('./views/opinie-view.css');
+@import url('./views/mojewyprawy-view.css');
+@import url('./views/rejestracja-view.css');
+@import url('./views/gridwith-filters-view.css');
+@import url('./views/address-form-view.css');
+@import url('./views/checkout-form-view.css');    html {
+      --lumo-size-xl: 4rem;
+      --lumo-size-l: 3rem;
+      --lumo-size-m: 2.5rem;
+      --lumo-size-s: 2rem;
+      --lumo-size-xs: 1.75rem;
+      --lumo-space-xl: 2.5rem;
+      --lumo-space-l: 1.75rem;
+      --lumo-space-m: 1.125rem;
+      --lumo-space-s: 0.75rem;
+      --lumo-space-xs: 0.375rem;
+
+    }
